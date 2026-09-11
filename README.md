@@ -1,0 +1,1 @@
+The .skill file should work with Claude without alteration. For OpenAI, Gemini, or running the logic locally see the porting.md file. The logic is designed to work across any of those mechanisms or others.
