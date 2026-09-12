@@ -1,6 +1,8 @@
 
 Undergoing testing and refining.
+
 Last version shipped: 2.2
+
 Date: 09/12/2026
 
 
