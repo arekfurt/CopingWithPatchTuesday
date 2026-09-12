@@ -1,5 +1,10 @@
 
-A work in progress... Testing and refining. (Fri. 09/11 and Sat. 9/12). 
+Undergoing testing and refining.
+Last version shipped: 2.2
+Date: 09/12/2026
+
+
+Install the skill, then follow the prompts to download the MSRC data, reupload it, and create a report.
 
 The .skill file should work with Claude without alteration. For OpenAI, Gemini, or running the logic locally see the porting.md file. The logic is designed to work across any of those mechanisms or others.
 
